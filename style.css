@@ -1,0 +1,26 @@
+body {background-color: black;}
+h1 { text-align: center;
+    text-transform: uppercase;
+    color: blue;
+    font-size: 3rem;
+    font-family: font-family: "Libre Baskerville", Georgia, 'Times New Roman', Times, serif;
+}
+
+.logo {
+    border: 5px solid white;
+    width: 100%;
+    
+  }
+  .poster { width:70%;
+    border: 10px solid rgb(229, 229, 249);
+    margin: auto;
+
+
+  }
+  p{
+    color: aliceblue;
+text-align: center;
+font-size: medium;
+}
+
+  
